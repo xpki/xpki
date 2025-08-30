@@ -17,3 +17,4 @@ class UwUDeveloper:
         "email": "your.name@kawaii.moe",
         "nekoweb": "xpki.nekoweb.org"
     }
+```

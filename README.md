@@ -4,4 +4,4 @@ _**I make websites or apps for certain uses. Check out my biolink/portfolio.**_
 ## Quick contact
 - **[Discord](https://discord.com/users/405180450793979904): xpki;**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username="username"&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username="xpki"&langs_count=5)

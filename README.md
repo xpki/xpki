@@ -1,7 +1,7 @@
 
 ```python
 class xpki:
-    languages = ["HTML/CSS", "JavaScript", "Python", "Lua", "C", "...and anyfing else I need to learn! (>w<)"]
+    languages = ["HTML/CSS", "JavaScript", "Python", "Lua", "C"]
     current_project = ""
     contact = {
         "discord": "@xpki",

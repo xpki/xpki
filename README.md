@@ -6,7 +6,7 @@ _**I make websites or apps for certain uses. Check out my biolink/portfolio.**_
 
 <div align="center">
 
-https://github-readme-stats.vercel.app/api?username=%5BYOUR-USERNAME%5D&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=ff99cc&icon_color=ff99cc&text_color=ffffff
+https://github-readme-stats.vercel.app/api?username=xpki&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=ff99cc&icon_color=ff99cc&text_color=ffffff
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=%5BYOUR-USERNAME%5D&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=ff99cc&text_color=ffffff
+https://github-readme-stats.vercel.app/api/top-langs/?username=xpki&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=ff99cc&text_color=ffffff
 </div>
